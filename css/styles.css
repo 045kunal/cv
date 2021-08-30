@@ -1,0 +1,72 @@
+body{
+    background-color:lightcyan;
+    margin: 0%;
+    text-align: center;
+    color:rgb(44, 38, 38);
+}
+.topcloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+.info{
+    margin-top: 150px;
+    font-family: sans-serif;
+}
+.sacramento{
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+hr{
+    border: dotted rgb(165, 160, 160) 6px;
+    border-bottom: none;
+    width: 20%;
+}
+.bottomcloud{
+    position: absolute;
+    top: 420px;
+    left: 350px;
+}
+.mountain{ 
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.profile{
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+    position: relative;
+    margin: 100px auto 150px auto;
+    width: 50%; 
+    text-align: left;
+    line-height: 2;
+}
+.skills{
+    position: relative;
+    margin: 50px auto 150px auto;
+}
+.skill1-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
